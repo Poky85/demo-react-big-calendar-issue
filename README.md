@@ -1,6 +1,6 @@
 # react-big-calendar components issue
 
-Minimal reproduction of components remounting issue present in `react-big-calendar` since `1.9.1`.
+Minimal reproduction of components remounting issue present in [react-big-calendar](https://github.com/jquense/react-big-calendar) since `1.9.1`.
 
 ## Try it
 
